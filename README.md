@@ -25,7 +25,7 @@ The code in this tutorial are extracted from the demo links at the bottom of the
 Assuming you have node installed:
 > `node install` 
 > 
-> `node server.js`
+> `node sse-server.js`
 
 Preferred open multiple browser(Chrome/Safari): localhost:8000/sse-node.html
 
