@@ -1,8 +1,8 @@
 # Server Sent Events
--------------------
+
 
 ## Introduction
----------------
+
 
 Server-Sent Events (SSE) is a server push technology enabling a client to receive automatic updates from a server via HTTP connection. The Server-Sent Events EventSource API is standardized as part of HTML5 by the W3C.
 
@@ -16,7 +16,7 @@ More information about SSEs can be found at http://www.html5rocks.com/tutorials/
 The code in this tutorial are extracted from the demo links at the bottom of the page.
 
 ## Running the examples
----------------------
+
 
 Assuming you have node installed:
 > `node install` 
