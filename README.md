@@ -23,7 +23,7 @@ The code in this tutorial are extracted from the demo links at the bottom of the
 --------------------------
 
 Assuming you have node installed:
-> `node install` 
+> `npm install` 
 > 
 > `node sse-server.js`
 
